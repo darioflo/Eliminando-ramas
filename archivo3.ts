@@ -4,4 +4,6 @@ let miObjeto: Object = {
   país: "Mx",
 };
 
+console.log("Cambios antes de borrado");
+
 console.log(miObjeto);
